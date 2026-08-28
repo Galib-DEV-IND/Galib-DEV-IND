@@ -1,5 +1,3 @@
 <p align="center">
-  <a href="https://snowflake.com">
-    <img src="https://companieslogo.com" alt="Snowflake Logo" width="200"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/512px-Snowflake_Logo.svg.png" alt="Snowflake" width="120"/>
 </p>
