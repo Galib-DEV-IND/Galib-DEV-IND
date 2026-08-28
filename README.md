@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="120" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="120" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" width="120" />
   <img
     src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg"
     alt="Snowflake Logo"
