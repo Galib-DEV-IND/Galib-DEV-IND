@@ -1,4 +1,3 @@
-![SQL](https://shields.io)
-![Python](https://shields.io)
-![Snowflake](https://shields.io)
+<img src="https://jsdelivr.net" height="40" alt="SQL Logo">
+
 
