@@ -1,3 +1,5 @@
-<img src="https://jsdelivr.net" height="40" alt="SQL Logo">
-
-
+<p align="center">
+  <a href="https://snowflake.com">
+    <img src="https://companieslogo.com" alt="Snowflake Logo" width="200"/>
+  </a>
+</p>
